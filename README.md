@@ -1,4 +1,4 @@
-# next-portfolio
+# Jordan Urbaez Lu Portfolio Website
 
 Portfolio website for Jordan Urbaez Lu.
 
